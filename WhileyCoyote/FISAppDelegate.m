@@ -5,13 +5,19 @@
 @implementation FISAppDelegate
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
-    /**
-     
-     * Write your loop here!
     
-     */
     
-    // do not alter
+- (NSUInteger *)"%"0<50", steps
+    
+    do {
+        NSLog(@"Meep! Meep!");
+    } while (YES);
+ 
+    if (steps) {
+        NSLog(@"YOU'RE CUCKOO!");
+    }
+    
+    
     return YES;  //
     ///////////////
 }
